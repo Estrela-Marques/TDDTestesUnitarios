@@ -1,0 +1,14 @@
+C:\Users\fract\Desktop\Estudos C#\NewTalents\NewTalents\bin\Debug\net7.0\NewTalents.exe
+C:\Users\fract\Desktop\Estudos C#\NewTalents\NewTalents\bin\Debug\net7.0\NewTalents.deps.json
+C:\Users\fract\Desktop\Estudos C#\NewTalents\NewTalents\bin\Debug\net7.0\NewTalents.runtimeconfig.json
+C:\Users\fract\Desktop\Estudos C#\NewTalents\NewTalents\bin\Debug\net7.0\NewTalents.dll
+C:\Users\fract\Desktop\Estudos C#\NewTalents\NewTalents\bin\Debug\net7.0\NewTalents.pdb
+C:\Users\fract\Desktop\Estudos C#\NewTalents\NewTalents\obj\Debug\net7.0\NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fract\Desktop\Estudos C#\NewTalents\NewTalents\obj\Debug\net7.0\NewTalents.AssemblyInfoInputs.cache
+C:\Users\fract\Desktop\Estudos C#\NewTalents\NewTalents\obj\Debug\net7.0\NewTalents.AssemblyInfo.cs
+C:\Users\fract\Desktop\Estudos C#\NewTalents\NewTalents\obj\Debug\net7.0\NewTalents.csproj.CoreCompileInputs.cache
+C:\Users\fract\Desktop\Estudos C#\NewTalents\NewTalents\obj\Debug\net7.0\NewTalents.dll
+C:\Users\fract\Desktop\Estudos C#\NewTalents\NewTalents\obj\Debug\net7.0\refint\NewTalents.dll
+C:\Users\fract\Desktop\Estudos C#\NewTalents\NewTalents\obj\Debug\net7.0\NewTalents.pdb
+C:\Users\fract\Desktop\Estudos C#\NewTalents\NewTalents\obj\Debug\net7.0\NewTalents.genruntimeconfig.cache
+C:\Users\fract\Desktop\Estudos C#\NewTalents\NewTalents\obj\Debug\net7.0\ref\NewTalents.dll
